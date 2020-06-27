@@ -1,9 +1,12 @@
 package com.company;
 
+import org.junit.Test;
 import java.util.Date;
 
 public class StorableTest extends Storable {
-  public void add(Food item);
-  public void rm();
-  public boolean checkBestBy();
+  @Test
+  public void checksadd() throws Exception{
+
+  }
+
 }
