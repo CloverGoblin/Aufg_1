@@ -2,8 +2,17 @@ package com.company;
 
 import java.util.Date;
 
-public interface Storable {
-  public void add(Food item);
-  public void rm();
-  public boolean checkBestBy();
+public class Storable {
+  public void add(){
+
+  }
+
+  public void rm(){
+
+  }
+
+  public boolean checkBestBy() {
+    return true;
+  }
+  }
 }

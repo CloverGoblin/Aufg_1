@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 class Cooler  {
 
-  ArrayList<Food> content = new ArrayList<>();
+  ArrayList<Board> content = new ArrayList<>();
 
 
 
