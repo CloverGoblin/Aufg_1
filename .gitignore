@@ -1,5 +1,6 @@
 # IDEs
 .idea/*
+*.iml
 
 # Compiled class file
 *.class
@@ -21,4 +22,7 @@ hs_err_pid*
 
 # folder for planing and engineering
 SE/*
+
+# folder for external libs
+lib/
 
